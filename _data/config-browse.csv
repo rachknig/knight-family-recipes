@@ -2,4 +2,4 @@ field,display_name,btn,hidden,sort_name
 recipetype,Recipe Type,,,Recipe Type
 creator,Creator,,,Creator
 subject,Subject,,,Subject
-location,,,true,
+location,Location,,,Location
