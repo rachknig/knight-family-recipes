@@ -48,12 +48,6 @@ map-cluster: true # true/false, suggested for large collection or with many item
 map-cluster-radius: 25 # size of clusters, from ~ 10 to 80
 
 ##########
-# TIMELINE PAGE
-#
-year-navigation: #"1900;1905;1910;1915;1920" # set years to appear in dropdown nav, leave blank to auto gen
-year-nav-increment: 5 # set increments when auto gen nav years
-
-##########
 # DATA 
 #
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
