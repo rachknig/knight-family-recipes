@@ -1,15 +1,13 @@
 field,display_name,browse_link,external_link
-title,Title,
+title,Title
 creator,Creator,
-date,Date Created,
 description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
+subject,Ingredients,true
+location,Location,
+latitude,Latitude,
+longitude,Longitide,
+source,Source,
 type,Type,
 format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+language,Language,
+recipetype,Recipe Type,
