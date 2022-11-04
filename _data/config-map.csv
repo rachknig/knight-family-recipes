@@ -3,3 +3,4 @@ creator,Creator,true
 location,Location,true
 subject,Ingredients,true
 recipetype,Recipe Type,true
+source,Source,true
