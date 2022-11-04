@@ -1,5 +1,4 @@
 field,display_name,btn,hidden,sort_name
-title,Title,,true,Title
 recipetype,Recipe Type,,,Recipe Type
 creator,Creator,,,Creator
 subject,Ingredients,true,,Ingredients
