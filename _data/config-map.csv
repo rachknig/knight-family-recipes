@@ -1,6 +1,5 @@
 field,display_name,search
 creator,Creator,true
 location,Location,true
-title,Title,true
 subject,Ingredients,true
 recipetype,Recipe Type,true
