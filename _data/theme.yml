@@ -54,7 +54,7 @@ map-cluster-radius: 25 # size of clusters, from ~ 10 to 80
 # comma delimited list, reference url is automatic
 metadata-export-fields: "objectid,filename,youtubeid,vimeoid,title,creator,description,subject,location,latitude,longitude,source,type,format,language,recipetype"
 # generate a facets list for given fields, comma delimited
-metadata-facets-fields: "subject,creator,location"
+metadata-facets-fields: "recipetype,subject,creator,location"
 
 ##########
 # ADVANCED OPTIONS
