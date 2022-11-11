@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://raw.githubusercontent.com/rachknig/knight-family-recipes/main/assets/img/siteheader.JPG" %}
 
-{% include feature/nav-menu.html sections="About the Collection;Sources for Recipes;Recipe Creators;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;Sources for Recipes;About the About Page" %}
 
 ## About the Collection
 
