@@ -11,6 +11,7 @@ credits: true
 {% include feature/jumbotron.html objectid="https://raw.githubusercontent.com/rachknig/knight-family-recipes/main/assets/img/siteheader.JPG" %}
 
 {% include feature/nav-menu.html sections="About the Collection;Sources for Recipes" %}
+
 ## About the Collection
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
@@ -21,6 +22,7 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+
 ## Sources for Recipes
 
 ### T.R. and Angie Knight
