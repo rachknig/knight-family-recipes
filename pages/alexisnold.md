@@ -13,4 +13,4 @@ credits: true
 Alexis is one of Angie Knight's cousins. Her mother is Chrisann Gutwein.
 ## Recipes
 
-{% include feature/pdf.html objectid="good005" %}
+{% include feature/pdf.html objectid="good005" height="300px" %}
