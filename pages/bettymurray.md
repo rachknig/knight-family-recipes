@@ -11,7 +11,7 @@ credits: true
 
 ## Connection to Knight Family
 
-Betty is T.R. Knight's grandmother and Connie Murray's mother-in-law.
+Betty was T.R. Knight's grandmother and Connie Murray's mother-in-law. She passed away in 2021.
 
 ## Recipes
 
