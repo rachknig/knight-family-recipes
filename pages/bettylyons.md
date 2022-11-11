@@ -16,7 +16,7 @@ Betty is Angie Knight's mother and Rachel Knight's grandmother. A majority of T.
 ## Recipes
 
 {% include feature/pdf.html objectid="swiss018" height="700px" %}
-{% include feature/pdf.html objectid="cavatini019" height="400px" %}
+{% include feature/pdf.html objectid="cavatini019" height="375px" %}
 {% include feature/pdf.html objectid="beef020" height="375px" %}
 {% include feature/pdf.html objectid="barbeque021" height="375px" %}
 {% include feature/pdf.html objectid="pork022" height="700px" %}
