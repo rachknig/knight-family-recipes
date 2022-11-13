@@ -11,7 +11,7 @@ credits: true
 
 ## Connection to Knight Family
 
-Jill is Angie Knight's cousin
+Jill is Angie Knight's cousin.
 
 ## Recipes
 
