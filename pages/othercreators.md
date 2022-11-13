@@ -7,7 +7,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://raw.githubusercontent.com/rachknig/knight-family-recipes/main/assets/img/siteheader.JPG" %}
 
-{% include feature/nav-menu.html sections="Alexis Nold;Chrisann Gutwein;Elaine Stoller;Gloria Conn;Janice DeSanto;Jill Gutwein;Linda Solms;Ruby Shoults;Sharon Ewbank;Sue DeWalt;T.R. Knight;Unknown" %}
+{% include feature/nav-menu.html sections="Alexis Nold;Betty Murray;Chrisann Gutwein;Elaine Stoller;Gloria Conn;Janice DeSanto;Jill Gutwein;Linda Solms;Ruby Shoults;Sharon Ewbank;Sue DeWalt;T.R. Knight;Unknown" %}
 
 ## Alexis Nold
 
@@ -18,6 +18,16 @@ Alexis is one of Angie Knight's cousins. Her mother is Chrisann Gutwein.
 ### Recipes
 
 {% include feature/pdf.html objectid="good005" height="650px" %}
+
+## Betty Murray
+
+### Connection to Knight Family
+
+Betty was T.R. Knight's grandmother and Connie Murray's mother-in-law. She passed away in 2021.
+
+### Recipes
+
+{% include feature/pdf.html objectid="peanut013" height="375px" %}
 
 ## Chrisann Gutwein
 
