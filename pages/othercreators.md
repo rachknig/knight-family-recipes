@@ -15,7 +15,7 @@ credits: true
 
 Alexis is one of Angie Knight's cousins. Her mother is Chrisann Gutwein.
 
-### Recipes
+### Recipe
 
 {% include feature/pdf.html objectid="good005" height="650px" %}
 
@@ -25,7 +25,7 @@ Alexis is one of Angie Knight's cousins. Her mother is Chrisann Gutwein.
 
 Betty was T.R. Knight's grandmother and Connie Murray's mother-in-law. She passed away in 2021.
 
-### Recipes
+### Recipe
 
 {% include feature/pdf.html objectid="peanut013" height="375px" %}
 
@@ -35,7 +35,7 @@ Betty was T.R. Knight's grandmother and Connie Murray's mother-in-law. She passe
 
 Chrisann is Angie Knight's aunt and Betty Lyons's sister.
 
-### Recipes
+### Recipe
 
 {% include feature/pdf.html objectid="chicken004" height="375px" %}
 
@@ -45,7 +45,7 @@ Chrisann is Angie Knight's aunt and Betty Lyons's sister.
 
 Elaine is a friend of the Knight family.
 
-### Recipes
+### Recipe
 
 {% include feature/pdf.html objectid="cheese006" height="375px" %}
 
@@ -55,7 +55,7 @@ Elaine is a friend of the Knight family.
 
 Gloria was T.R. Knight's aunt and Connie Murray's sister. She passed away in 2021.
 
-### Recipes
+### Recipe
 
 {% include feature/pdf.html objectid="peanut002" height="375px" %}
 
@@ -65,7 +65,7 @@ Gloria was T.R. Knight's aunt and Connie Murray's sister. She passed away in 202
 
 Janice was one of Angie Knight's coworkers when she worked at Deer Valley Ranch.
 
-### Recipes
+### Recipe
 
 {% include feature/pdf.html objectid="chocolate010" height="700px" %}
 
@@ -75,7 +75,7 @@ Janice was one of Angie Knight's coworkers when she worked at Deer Valley Ranch.
 
 Jill is Angie Knight's cousin.
 
-### Recipes
+### Recipe
 
 {% include feature/pdf.html objectid="skillet003" height="1000px" %}
 
@@ -85,7 +85,7 @@ Jill is Angie Knight's cousin.
 
 Linda is a good friend of the Knight family.
 
-### Recipes
+### Recipe
 
 {% include feature/pdf.html objectid="butter011" height="375px" %}
 
@@ -95,7 +95,7 @@ Linda is a good friend of the Knight family.
 
 Ruby was T.R. Knight's grandmother and Connie Murray's mother. Ruby passed away in 1999.
 
-### Recipes
+### Recipe
 
 {% include feature/pdf.html objectid="peanut012" height="700px" %}
 
@@ -105,7 +105,7 @@ Ruby was T.R. Knight's grandmother and Connie Murray's mother. Ruby passed away 
 
 Sharon is a good friend of the Knight family.
 
-### Recipes
+### Recipe
 
 {% include feature/pdf.html objectid="butter011" height="375px" %}
 
@@ -115,7 +115,7 @@ Sharon is a good friend of the Knight family.
 
 Sue was one of Angie Knight's coworkers when she worked at Deer Valley Ranch.
 
-### Recipes
+### Recipe
 
 {% include feature/pdf.html objectid="granola007" height="700px" %}
 
@@ -125,7 +125,7 @@ Sue was one of Angie Knight's coworkers when she worked at Deer Valley Ranch.
 
 T.R. is Angie Knight's husband, Rachel Knight's father, and Connie Murray's son.
 
-### Recipes
+### Recipe
 
 {% include feature/pdf.html objectid="cherry014" height="700px" %}
 
@@ -135,6 +135,6 @@ T.R. is Angie Knight's husband, Rachel Knight's father, and Connie Murray's son.
 
 This recipe's connection to the family is difficult to determine. It was given to T.R. and Angie Knight at their wedding in 1998, but there is no writing on the recipe indicating who was the recipe's creator, and attempts to identify the recipe by reaching out to other family members have been unsuccessful.
 
-### Recipes
+### Recipe
 
 {% include feature/pdf.html objectid="chocolate001" height="375px" %}
