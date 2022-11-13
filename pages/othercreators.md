@@ -9,6 +9,8 @@ credits: true
 
 {% include feature/nav-menu.html sections="Alexis Nold;Betty Murray;Chrisann Gutwein;Elaine Stoller;Gloria Conn;Janice DeSanto;Jill Gutwein;Linda Solms;Ruby Shoults;Sharon Ewbank;Sue DeWalt;T.R. Knight;Unknown" %}
 
+A large chunk of the recipes in this collection come from creators who only contributed to one recipe. All of those creators are listed on this page, along with their recipes.
+
 ## Alexis Nold
 
 ### Connection to Knight Family
