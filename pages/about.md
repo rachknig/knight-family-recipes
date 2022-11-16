@@ -27,8 +27,8 @@ For full details of creating your own collection site, visit [CollectionBuilder 
 
 ### T.R. and Angie Knight
 Stuff
-{% include feature/image.html objectid="https://raw.githubusercontent.com/rachknig/knight-family-recipes/main/assets/img/TRAngie.jpg" alt="Picture of T.R. and Angie Knight" %}
+{% include feature/image.html objectid="https://raw.githubusercontent.com/rachknig/knight-family-recipes/main/assets/img/TRAngie.jpg" alt="Picture of T.R. and Angie Knight" width="50" %}
 
 ### Rachel Knight
 Stuff
-{% include feature/image.html objectid="https://raw.githubusercontent.com/rachknig/knight-family-recipes/main/assets/img/Rachel.jpg" alt="Picture of Rachel Knight" %}
+{% include feature/image.html objectid="https://raw.githubusercontent.com/rachknig/knight-family-recipes/main/assets/img/Rachel.jpg" alt="Picture of Rachel Knight" width="50" %}
