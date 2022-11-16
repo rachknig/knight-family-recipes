@@ -31,4 +31,4 @@ Stuff
 
 ### Rachel Knight
 Stuff
-{% include feature/image.html objectid="https://raw.githubusercontent.com/rachknig/knight-family-recipes/main/assets/img/Rachel.jpg" alt="Picture of Rachel Knight %}
+{% include feature/image.html objectid="https://raw.githubusercontent.com/rachknig/knight-family-recipes/main/assets/img/Rachel.jpg" alt="Picture of Rachel Knight" %}
