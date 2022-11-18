@@ -14,7 +14,7 @@ credits: true
 
 This collection compiles the handwritten recipe cards from three members of the Knight family: T.R., Angie, and Rachel.
 
-T.R. & Angie Knight received most of their recipe cards as wedding gifts in July 1998. Thirty of the items in this collection are their recipe cards. All but two of their handwritten cards have been digitized for this collection - those two were excluded for copyright reasons.
+T.R. & Angie Knight received most of their recipe cards as wedding gifts in July 1994. Thirty of the items in this collection are their recipe cards. All but two of their handwritten cards have been digitized for this collection - those two were excluded for copyright reasons.
 
 Rachel Knight received her cards as a gift from Betty Lyons in August 2020, when she was in her senior year of her bachelor's degree. Twenty of the items in this collection are her recipe cards, which is the entirety of her current collection of handwritten cards.
 
