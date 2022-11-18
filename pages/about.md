@@ -22,9 +22,11 @@ Rachel Knight received her cards as a gift from Betty Lyons in August 2020, when
 
 ### T.R. and Angie Knight
 {% include feature/image.html objectid="https://raw.githubusercontent.com/rachknig/knight-family-recipes/main/assets/img/TRAngie.jpg" alt="Picture of T.R. and Angie Knight" width="50" %}
+T.R. and Angie Knight have been married since July 16, 1994. They have lived in Upland, Indiana for over 25 years, and have twin daughters - Emily and Rachel. T.R. is Director of Bible Translation Software at SIL International.
 
 ### Rachel Knight
 {% include feature/image.html objectid="https://raw.githubusercontent.com/rachknig/knight-family-recipes/main/assets/img/Rachel.jpg" alt="Picture of Rachel Knight" width="50" %}
+Rachel Knight is the younger of T.R. and Angie's twin daughters. She was raised in Upland, and currently resides in Bloomington, Indiana. She is working towards a masters of library science at IU Bloomington, and will graduate in May 2023.
 
 ## Acknowledgements
 Thanks to Angie Knight for her help identifying the various recipe creators, and for providing the location metadata.
