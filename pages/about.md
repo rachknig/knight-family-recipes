@@ -4,8 +4,6 @@ layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
 ---
 
 {% include feature/jumbotron.html objectid="https://raw.githubusercontent.com/rachknig/knight-family-recipes/main/assets/img/siteheader.JPG" %}
@@ -14,21 +12,16 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This collection compiles the handwritten recipe cards from three members of the Knight family: T.R., Angie, and Rachel.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+T.R. & Angie Knight received most of their recipe cards as wedding gifts in July 1998. Thirty of the items in this collection are their recipe cards. All but two of their handwritten cards have been digitized for this collection - those two were excluded for copyright reasons.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+Rachel Knight received her cards as a gift from Betty Lyons in August 2020, when she was in her senior year of her bachelor's degree. Twenty of the items in this collection are her recipe cards, which is the entirety of her current collection of handwritten cards.
 
 ## Sources for Recipes
 
 ### T.R. and Angie Knight
-Stuff
 {% include feature/image.html objectid="https://raw.githubusercontent.com/rachknig/knight-family-recipes/main/assets/img/TRAngie.jpg" alt="Picture of T.R. and Angie Knight" width="50" %}
 
 ### Rachel Knight
-Stuff
 {% include feature/image.html objectid="https://raw.githubusercontent.com/rachknig/knight-family-recipes/main/assets/img/Rachel.jpg" alt="Picture of Rachel Knight" width="50" %}
