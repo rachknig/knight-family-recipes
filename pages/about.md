@@ -8,7 +8,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://raw.githubusercontent.com/rachknig/knight-family-recipes/main/assets/img/siteheader.JPG" %}
 
-{% include feature/nav-menu.html sections="About the Collection;Sources for Recipes" %}
+{% include feature/nav-menu.html sections="About the Collection;Sources for Recipes;Acknowledgements" %}
 
 ## About the Collection
 
@@ -25,3 +25,10 @@ Rachel Knight received her cards as a gift from Betty Lyons in August 2020, when
 
 ### Rachel Knight
 {% include feature/image.html objectid="https://raw.githubusercontent.com/rachknig/knight-family-recipes/main/assets/img/Rachel.jpg" alt="Picture of Rachel Knight" width="50" %}
+
+## Acknowledgements
+Thanks to Angie Knight for her help identifying the various recipe creators, and for providing the location metadata.
+
+Thanks to Betty Lyons for providing a majority of the recipes, and for confirming that Mom and Mom Lyons recipes were from her, along with multiple unlabeled recipes.
+
+Thanks to the Digitization Lab at Wells Library at IU Bloomington for providing the scanner used to digitize the fifty recipe cards, and the software used to convert those scans into PDFs.
