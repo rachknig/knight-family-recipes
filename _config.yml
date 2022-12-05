@@ -61,7 +61,7 @@ google-analytics-id: G-QMSQWY8H3B
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 ##########
 # BUILD SETTINGS 
